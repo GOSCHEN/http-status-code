@@ -1,6 +1,6 @@
 # action.yml
-name: http-status-code
-author: Michael Gerdemann
+name: http-check-url
+author: Michael Gerdemann | Fabian Seiffert
 branding:
   icon: activity
   color: white
